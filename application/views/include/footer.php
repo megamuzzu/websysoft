@@ -28,15 +28,7 @@
 					<div class="footer__one-widget">
 						<div class="footer__one-widget-about">
 							<a href="<?php echo base_url();?>"><img src="<?php echo base_url();?>assets/img/logo-2.png" alt=""></a>
-							<p>Donec quis viverra enim. Integer mi felis, auctor eget magna</p>
-							<div class="footer__one-widget-about-social">
-								<ul>
-									<li><a href="<?php echo base_url();?>"><i class="fab fa-facebook-f"></i></a></li>
-									<li><a href="<?php echo base_url();?>"><i class="fab fa-twitter"></i></a></li>
-									<li><a href="<?php echo base_url();?>"><i class="fab fa-instagram"></i></a></li>
-									<li><a href="<?php echo base_url();?>"><i class="fab fa-linkedin"></i></a></li>
-								</ul>
-							</div>
+							<p>Websysoft Solutions: Software Development, Web Development & Digital Marketing</p>
 						</div>
 					</div>
 				</div>

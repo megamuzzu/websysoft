@@ -41,16 +41,7 @@
 				</div>
 				<div class="col-xl-7 col-md-6">
 					<div class="top__bar-right">
-						<a href="mailto:websysoftsolutions.com"><i class="fas fa-envelope"></i>websysoftsolutions.com</a>
-						<div class="top__bar-right-social">
-							<ul>
-								<li><a href="<?php echo base_url();?>"><i class="fab fa-facebook-f"></i></a></li>
-								<li><a href="<?php echo base_url();?>"><i class="fab fa-twitter"></i></a></li>
-								<li><a href="<?php echo base_url();?>"><i class="fab fa-instagram"></i></a></li>
-								<li><a href="<?php echo base_url();?>"><i class="fab fa-linkedin"></i></a></li>
-							</ul>
-							
-						</div>
+						<a href="mailto:info@websysoftsolutions.com"><i class="fas fa-envelope"></i>info@websysoftsolutions.com</a>
 					</div>
 				</div>
 			</div>
@@ -118,7 +109,7 @@
 									</div>
 									<div class="header__area-menubar-right-box-sidebar-popup-contact-item-content">
 										<span>Call Now</span>
-										<h6><a href="tel:+125(895)658568">+125 (895) 658 568</a></h6>
+										<h6><a href="tel:+919871652511">+91-9871652511</a></h6>
 									</div>
 								</div>
 								<div class="header__area-menubar-right-box-sidebar-popup-contact-item">
@@ -127,7 +118,7 @@
 									</div>
 									<div class="header__area-menubar-right-box-sidebar-popup-contact-item-content">
 										<span>Quick Email</span>
-										<h6><a href="mailto:websysoftsolutions.com">websysoftsolutions.com</a></h6>
+										<h6><a href="mailto:info@websysoftsolutions.com">info@websysoftsolutions.com</a></h6>
 									</div>
 								</div>
 								<div class="header__area-menubar-right-box-sidebar-popup-contact-item">
@@ -139,14 +130,6 @@
 										<h6><a href="<?php echo base_url();?>">T2-817, Assotech Business Cresteria, Sector 135, Noida, Uttar Pradesh - 201301</a></h6>
 									</div>
 								</div>
-							</div>
-							<div class="header__area-menubar-right-box-sidebar-popup-social">
-								<ul>
-									<li><a href="<?php echo base_url();?>"><i class="fab fa-facebook-f"></i></a></li>
-									<li><a href="<?php echo base_url();?>"><i class="fab fa-behance"></i></a></li>
-									<li><a href="<?php echo base_url();?>"><i class="fab fa-twitter"></i></a></li>
-									<li><a href="<?php echo base_url();?>"><i class="fab fa-linkedin-in"></i></a></li>
-								</ul>							
 							</div>
                         </div>
                         <div class="sidebar-overlay"></div>

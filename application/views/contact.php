@@ -71,7 +71,7 @@
                         <div class="contact__page-info-item">
                             <h6>Phone Number<span>:</span></h6>
                             <span>
-								<a href="tel:(+106)935-0120">(+106) 935-0120</a>
+								<a href="tel:+919871652511">+91-9871652511</a>
 							</span>
                         </div>
                     </div>

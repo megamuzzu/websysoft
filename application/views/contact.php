@@ -23,29 +23,29 @@
                 <div class="col-xl-6 col-lg-6 order-last order-lg-first">
                     <div class="contact__page-form">
                         <h3 class="mb-30">Contact Us</h3>
-                        <form action="#">	
+                        <form method="post" id="frmSubmitContact">
                             <div class="row">
                                 <div class="col-sm-12 mb-20"> 
                                     <div class="contact__page-form-item conbix-contact-item">
                                         <span class="fal fa-user"></span>
-                                        <input type="text" name="name" placeholder="Full Name" required="required">
+                                        <input type="text" name="Name" placeholder="Full Name" required="required">
                                     </div>										
                                 </div>
                                 <div class="col-sm-12 mb-20">
                                     <div class="contact__page-form-item conbix-contact-item">
                                         <span class="far fa-envelope-open"></span>
-                                        <input type="email" name="email" placeholder="Email Address" required="required">											
+                                        <input type="email" name="Email" placeholder="Email Address" required="required">											
                                     </div>									
                                 </div>
                                 <div class="col-sm-12 mb-30"> 
                                     <div class="contact__page-form-item conbix-contact-item">
                                         <span class="far fa-comments"></span>
-                                        <textarea name="message" placeholder="Type your comments...."></textarea>
+                                        <textarea name="Message" placeholder="Type your comments...."></textarea>
                                     </div>										
                                 </div>
                                 <div class="col-lg-12">										
                                     <div class="contact__page-form-item">
-                                        <button class="btn-one" type="submit">Submit Now<i class="far fa-chevron-double-right"></i></button>
+                                        <button class="btn-one" id="btnSubmitContact" type="submit">Submit Now<i class="far fa-chevron-double-right"></i></button>
                                     </div>										
                                 </div>
                             </div>							
@@ -82,3 +82,21 @@
         </div>
     </div>
  
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+<script>
+     jQuery('#frmSubmitContact').on('submit',function(e){
+      e.preventDefault();
+      jQuery('#btnSubmitContact').attr('disabled',true);
+      jQuery.ajax({
+         url:'https://script.google.com/macros/s/AKfycbzi2MtAc58w_kMR8JdEMonbO6abGPjiYjfBCTJWp2BevJ4Ttc7L_nRhL8petzb87_Cudw/exec',
+         type:'post',
+         data:jQuery('#frmSubmitContact').serialize(),
+         success:function(result){
+            jQuery('#frmSubmitContact')[0].reset();
+            jQuery('#msg').html('Thank You');
+            jQuery('#btnSubmitContact').attr('disabled',false);
+            window.location.href='thank-you';
+         }
+      });
+     });
+</script>

@@ -397,18 +397,18 @@
                   <h2>Free Consultation</h2>
                </div>
                <div class="getIn__touch-left-form">
-                  <form action="#">
+                  <form method="post" id="frmSubmit">
                      <div class="mt-25">
-                        <input type="text" name="name" placeholder="Full Name" required="required">
+                        <input type="text" name="Name" placeholder="Full Name" required="required">
                      </div>
                      <div class="mt-25">
-                        <input type="email" name="email" placeholder="Email Address" required="required">											
+                        <input type="email" name="Email" placeholder="Email Address" required="required">											
                      </div>
                      <div class="mt-25">
-                        <input type="text" name="subject" placeholder="Subject" required="required">
+                        <input type="text" name="Subject" placeholder="Subject" required="required">
                      </div>
                      <div class="mt-25">
-                        <button class="btn-one" type="submit">Free Consulting</button>
+                        <button class="btn-one" id="btnSubmit" type="submit">Free Consulting</button>
                      </div>
                   </form>
                </div>
@@ -549,4 +549,22 @@
    document.getElementById("dateshow1").innerHTML = currentDay + "/" + currentMonth + "/" + currentYear;
    document.getElementById("dateshow2").innerHTML = currentDay + "/" + currentMonth + "/" + currentYear;
        
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+<script>
+     jQuery('#frmSubmit').on('submit',function(e){
+      e.preventDefault();
+      jQuery('#btnSubmit').attr('disabled',true);
+      jQuery.ajax({
+         url:'https://script.google.com/macros/s/AKfycbzxyQVJDLANKOPTXfNbmqWxaj9qOji8aPEUFpf-lXbR76qJphdTUliD4YSobrXZ4srONw/exec',
+         type:'post',
+         data:jQuery('#frmSubmit').serialize(),
+         success:function(result){
+            jQuery('#frmSubmit')[0].reset();
+            jQuery('#msg').html('Thank You');
+            jQuery('#btnSubmit').attr('disabled',false);
+            window.location.href='thank-you';
+         }
+      });
+     });
 </script>

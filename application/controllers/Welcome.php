@@ -8,49 +8,49 @@ class Welcome extends CI_Controller {
 	{
 		$data = array();
 		$data["file"] ="index";
-		$data["title"] = "Tittle";
+		$data["title"] = "Websysoft Solutions";
 		$this->load->view('include/template',$data);
 	}
 	public function about()
 	{
 		$data = array();
 		$data["file"] ="about";
-		$data["title"] = "Tittle";
+		$data["title"] = "About Us: Websysoft Solutions";
 		$this->load->view('include/template',$data);
 	}
 	public function contact()
 	{
 		$data = array();
 		$data["file"] ="contact";
-		$data["title"] = "Tittle";
+		$data["title"] = "Contact Us: Websysoft Solutions";
 		$this->load->view('include/template',$data);
 	}
 	public function software_development()
 	{
 		$data = array();
 		$data["file"] ="software-development";
-		$data["title"] = "Tittle";
+		$data["title"] = "Software Development: Websysoft Solutions";
 		$this->load->view('include/template',$data);
 	}
 	public function website_development()
 	{
 		$data = array();
 		$data["file"] ="website-development";
-		$data["title"] = "Tittle";
+		$data["title"] = "Website Development: Websysoft Solutions";
 		$this->load->view('include/template',$data);
 	}
 	public function website_designing()
 	{
 		$data = array();
 		$data["file"] ="website-designing";
-		$data["title"] = "Tittle";
+		$data["title"] = "Website Designing: Websysoft Solutions";
 		$this->load->view('include/template',$data);
 	}
 	public function blog()
 	{
 		$data = array();
 		$data["file"] ="blog";
-		$data["title"] = "Tittle";
+		$data["title"] = "Our Blogs: Websysoft Solutions";
 		$this->load->view('include/template',$data);
 	}
 	public function blog_1()
@@ -78,21 +78,21 @@ class Welcome extends CI_Controller {
 	{
 		$data = array();
 		$data["file"] ="privacy-policy";
-		$data["title"] = "Tittle";
+		$data["title"] = "Privacy Policy: Websysoft Solutions";
 		$this->load->view('include/template',$data);
 	}
 	public function terms_conditions()
 	{
 		$data = array();
 		$data["file"] ="terms-conditions";
-		$data["title"] = "Tittle";
+		$data["title"] = "Terms and Conditions: Websysoft Solutions";
 		$this->load->view('include/template',$data);
 	}
 	public function cookie_policy()
 	{
 		$data = array();
 		$data["file"] ="cookie-policy";
-		$data["title"] = "Tittle";
+		$data["title"] = "Cookie Policy: Websysoft Solutions";
 		$this->load->view('include/template',$data);
 	}
 }

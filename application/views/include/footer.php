@@ -96,7 +96,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-xl-12">
-						<p>Copyright 2023  <a href="index.html">WebsySoft services</a> - All Rights Reserved By <a href="<?php echo base_url();?>" target="_blank">WebsySoft services</a></p>
+						<p>Copyright 2023  <a href="<?php echo base_url() ?>?>" style="text-decoration: none;color: white;">Websysoft Solutions</a></p>
 					</div>
 				</div>
 			</div>

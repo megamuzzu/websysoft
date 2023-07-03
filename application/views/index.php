@@ -294,7 +294,7 @@
                            <i class="fal fa-quote-right"></i>
                         </div>
                         <div class="testimonial__area-item-client-image">
-                           <img src="<?php echo base_url();?>assets/img/avatar/avatar-1.jpg" alt="">
+                           <img src="<?php echo base_url();?>assets/img/avatar/test.png" alt="">
                         </div>
                         <div class="testimonial__area-item-client-title">
                            <h5> John Doe</h5>
@@ -316,7 +316,7 @@
                            <i class="fal fa-quote-right"></i>
                         </div>
                         <div class="testimonial__area-item-client-image">
-                           <img src="<?php echo base_url();?>assets/img/avatar/avatar-2.jpg" alt="">
+                           <img src="<?php echo base_url();?>assets/img/avatar/test.png" alt="">
                         </div>
                         <div class="testimonial__area-item-client-title">
                            <h5> Jane Smith</h5>
@@ -338,7 +338,7 @@
                            <i class="fal fa-quote-right"></i>
                         </div>
                         <div class="testimonial__area-item-client-image">
-                           <img src="<?php echo base_url();?>assets/img/avatar/avatar-2.jpg" alt="">
+                           <img src="<?php echo base_url();?>assets/img/avatar/test.png" alt="">
                         </div>
                         <div class="testimonial__area-item-client-title">
                            <h5> Mark 
@@ -362,7 +362,7 @@
                            <i class="fal fa-quote-right"></i>
                         </div>
                         <div class="testimonial__area-item-client-image">
-                           <img src="<?php echo base_url();?>assets/img/avatar/avatar-3.jpg" alt="">
+                           <img src="<?php echo base_url();?>assets/img/avatar/test.png" alt="">
                         </div>
                         <div class="testimonial__area-item-client-title">
                            <h5>Sarah Thompson</h5>

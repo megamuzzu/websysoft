@@ -10,7 +10,7 @@
 	<meta name="author" content="ThemeOri">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Title of Site -->
-	<title>websysoftservices.com</title>
+	<title><?php echo $title;?></title>
 	<!-- Favicons -->
 	<link rel="icon" type="image/png" href="<?php echo base_url();?>assets/img/favicon-1.png">
 	<!-- Bootstrap CSS -->

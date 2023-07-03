@@ -3545,7 +3545,7 @@ Menu Bar CSS
   font-size: 16px;
   position: absolute;
   background: #161616;
-  min-width: 240px;
+  min-width: 250px;
   transition: all 0.3s ease-out 0s;
   top: 100%;
   opacity: 0;

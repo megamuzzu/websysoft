@@ -29,7 +29,7 @@
                             <div class="news__standard-left-item-content">
                                 <div class="news__standard-left-item-content-meta">
                                     <ul>
-                                        <li><a href="<?php echo base_url();?>"><i class="fal fa-user"></i>Websysoft Services</a></li>
+                                        <li><a href="<?php echo base_url();?>"><i class="fal fa-user"></i>Websysoft Solutions</a></li>
                                         <li id="dateshow3"><a href="<?php echo base_url();?>"></i>12/06/2023</a></li>
                                         
                                     </ul>
@@ -47,7 +47,7 @@
                             <div class="news__standard-left-item-content">
                                 <div class="news__standard-left-item-content-meta">
                                     <ul>
-                                        <li><a href="<?php echo base_url();?>"><i class="fal fa-user"></i>Websysoft Services</a></li>
+                                        <li><a href="<?php echo base_url();?>"><i class="fal fa-user"></i>Websysoft Solutions</a></li>
                                         <li id="dateshow4"><a href="<?php echo base_url();?>"></i>12/06/2023</a></li>
                                     </ul>
                                 </div>
@@ -63,7 +63,7 @@
                             <div class="news__standard-left-item-content">
                                 <div class="news__standard-left-item-content-meta">
                                     <ul>
-                                        <li><a href="<?php echo base_url();?>"><i class="fal fa-user"></i>Websysoft Services</a></li>
+                                        <li><a href="<?php echo base_url();?>"><i class="fal fa-user"></i>Websysoft Solutions</a></li>
                                         <li id="dateshow5"><a href="<?php echo base_url();?>"></i>12/06/2023</a></li>
                                         
                                     </ul>
@@ -130,7 +130,7 @@
 									<img src="<?php echo base_url();?>assets/img/icon/question.png" alt="">
 								</div>
 								<h3>Let's Work Together</h3>
-                                <a class="btn-one" href="mailto:websysoftservices.com">contact us</a>
+                                <a class="btn-one" href="mailto:websysoftsolutions.com">contact us</a>
 							</div>                                                     
                         </div>
                     </div>  

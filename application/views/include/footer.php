@@ -11,7 +11,7 @@
 					</div>
 					<div class="col-xl-7 col-lg-7">
 						<div class="subscribe__area-form">
-						<a class="btn-one" href="mailto:websysoftservices.com">contact us now</a>
+						<a class="btn-one" href="mailto:websysoftsolutions.com">contact us now</a>
 						
 						</div>
 					</div>
@@ -62,16 +62,7 @@
 									<i class="far fa-map-marker-alt"></i>
 								</div>
 								<div class="footer__one-widget-location-item-info">
-									<a href="<?php echo base_url();?>">2972 Westheimer Rd. Santa Ana, Illinois 85486</a>
-								</div>
-							</div>
-							<h6>Branch Office</h6>
-							<div class="footer__one-widget-location-item">
-								<div class="footer__one-widget-location-item-icon">
-									<i class="far fa-map-marker-alt"></i>
-								</div>
-								<div class="footer__one-widget-location-item-info">
-									<a href="<?php echo base_url();?>">8502 Preston Rd. Inglewood, Maine 98380</a>
+									<a href="<?php echo base_url();?>">T2-817, Assotech Business Cresteria, Sector 135, Noida, Uttar Pradesh - 201301</a>
 								</div>
 							</div>
 						</div>

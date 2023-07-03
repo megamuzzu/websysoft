@@ -30,7 +30,7 @@
                            <span class="text-five" id="month1" >Dec</span>
                         </div>
                      </li>
-                     <li><a href="<?php echo base_url();?>the-power-of-digital-creation-unleashed-web-development"><i class="far fa-user"></i>Websysoft Services</a></li>
+                     <li><a href="<?php echo base_url();?>the-power-of-digital-creation-unleashed-web-development"><i class="far fa-user"></i>Websysoft Solutions</a></li>
                   </ul>
                   <h3 class="mt-20">The Power of Digital Creation Unleashed: Web Development</h3>
                </div>
@@ -123,7 +123,7 @@
                         <img src="<?php echo base_url();?>assets/img/icon/question.png" alt="">
                      </div>
                      <h3>Let's Work Together</h3>
-                     <a class="btn-one" href="mailto:websysoftservices.com">contact us</a>
+                     <a class="btn-one" href="mailto:websysoftsolutions.com">contact us</a>
                   </div>
                </div>
             </div>

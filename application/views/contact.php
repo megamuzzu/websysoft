@@ -65,8 +65,8 @@
                         <div class="contact__page-info-item">
                             <h6>Email Address <span>:</span></h6>
                             <span>
-								<a href="mailto:websysoftservices.com">hello.websysoftservices.com </a>
-								<a href="mailto:websysoftservices.com">info.websysoftservices.com </a>
+								<a href="mailto:websysoftsolutions.com">hello.websysoftsolutions.com </a>
+								<a href="mailto:websysoftsolutions.com">info.websysoftsolutions.com </a>
 							</span>
                         </div>
                         <div class="contact__page-info-item">

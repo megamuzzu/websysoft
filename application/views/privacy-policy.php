@@ -25,7 +25,7 @@
                        
                         <div class="services__details-left-content">
                             <h2>privacy policy</h2>
-                            <p class="mb-25">Websysoft Services is committed to protecting the privacy of its users. This Privacy Policy outlines the types of information we collect, how we use and protect that information, and the choices you have regarding your personal data. By accessing or using our website, you agree to the terms of this Privacy Policy.</p> <hr>
+                            <p class="mb-25">Websysoft Solutions is committed to protecting the privacy of its users. This Privacy Policy outlines the types of information we collect, how we use and protect that information, and the choices you have regarding your personal data. By accessing or using our website, you agree to the terms of this Privacy Policy.</p> <hr>
 
                            <h3 class="mb-30">Information Collection</h3>
                             <p class="mb-25"><span style="color:#c70000;">Personal Information:</span>  We may collect personally identifiable information, such as your name, email address, phone number, or any other information you voluntarily provide to us when you interact with our website or services.</p>

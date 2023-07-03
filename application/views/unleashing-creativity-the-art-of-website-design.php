@@ -30,7 +30,7 @@
                                         <span id="month3" class="text-five">Dec</span>
                                     </div>                                    
                                 </li>
-                                <li><a href="<?php echo base_url();?>unleashing-creativity-the-art-of-website-design"><i class="far fa-user"></i>Websysoft Services</a></li>
+                                <li><a href="<?php echo base_url();?>unleashing-creativity-the-art-of-website-design"><i class="far fa-user"></i>Websysoft Solutions</a></li>
                                
                             </ul>
                             <h3 class="mt-20">Unleashing Creativity: The Art of Website Design</h3>
@@ -125,7 +125,7 @@
 									<img src="<?php echo base_url();?>assets/img/icon/question.png" alt="">
 								</div>
 								<h3>Let's Work Together</h3>
-                                <a class="btn-one" href="mailto:websysoftservices.com">contact us</a>
+                                <a class="btn-one" href="mailto:websysoftsolutions.com">contact us</a>
 							</div>                                                     
                         </div>
                     </div>  

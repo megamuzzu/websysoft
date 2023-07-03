@@ -9,7 +9,7 @@
 							<li><a href="<?php echo base_url();?>">Home</a><span>|</span></li>
 							<li> About us</li>
 						</ul>
-						<h1>Websysoft Services</h1>
+						<h1>Websysoft Solutions</h1>
 					</div>
 				</div>
 			</div>

@@ -25,12 +25,12 @@
                        
                         <div class="services__details-left-content">
                             <h2>terms & conditions</h2>
-                            <p class="mb-25">Please read these Terms & Conditions carefully before using our website. This Agreement sets forth the legally binding terms and conditions for your use of the websysoft services.</p> <hr>
+                            <p class="mb-25">Please read these Terms & Conditions carefully before using our website. This Agreement sets forth the legally binding terms and conditions for your use of the Websysoft Solutions.</p> <hr>
 
                            <h3 class="mb-30">Acceptance of Terms</h3>
                             <p class="mb-25">By accessing or using our Website, you agree to be bound by this Agreement and all applicable laws and regulations. If you do not agree with any part of this Agreement, you must not use our Website.</p>
                            <h3 class="mb-30">Intellectual Property</h3>
-                            <p class="mb-25">The content, logos, trademarks, and other materials displayed on our Website are protected by intellectual property laws and are the property of websysoft services or their respective owners. You may not use, reproduce, distribute, modify, or create derivative works of any content without prior written permission from us or the respective owners.</p>
+                            <p class="mb-25">The content, logos, trademarks, and other materials displayed on our Website are protected by intellectual property laws and are the property of Websysoft Solutions or their respective owners. You may not use, reproduce, distribute, modify, or create derivative works of any content without prior written permission from us or the respective owners.</p>
                             
 
                            <h3 class="mb-30">User Conduct</h3>
@@ -56,10 +56,10 @@
                             <p class="mb-25">Our Website and its content are provided on an "as is" and "as available" basis. We make no warranties, express or implied, regarding the accuracy, reliability, completeness, or timeliness of the content or the availability or functionality of our Website. We disclaim all warranties, including but not limited to, warranties of merchantability, fitness for a particular purpose, and non-infringement.</p>
 
                            <h3 class="mb-30">Limitation of Liability</h3>
-                            <p class="mb-25">To the maximum extent permitted by applicable law,websysoft services and its officers, directors, employees, agents, and affiliates shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or in connection with your use of our Website, even if advised of the possibility of such damages.</p>
+                            <p class="mb-25">To the maximum extent permitted by applicable law,Websysoft Solutions and its officers, directors, employees, agents, and affiliates shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or in connection with your use of our Website, even if advised of the possibility of such damages.</p>
 
                            <h3 class="mb-30">Indemnification</h3>
-                            <p class="mb-25">You agree to indemnify and hold harmless websysoft services and its officers, directors, employees, agents, and affiliates from any claim, demand, or damage, including reasonable attorneys' fees, arising out of or in connection with your use of our Website, your violation of this Agreement, or your violation of any rights of another person or entity.</p>
+                            <p class="mb-25">You agree to indemnify and hold harmless Websysoft Solutions and its officers, directors, employees, agents, and affiliates from any claim, demand, or damage, including reasonable attorneys' fees, arising out of or in connection with your use of our Website, your violation of this Agreement, or your violation of any rights of another person or entity.</p>
 
                            <h3 class="mb-30">Governing Law and Jurisdiction</h3>
                             <p class="mb-25">.1 This Agreement shall be governed by and construed in accordance with the laws of Jurisdiction. Any legal action or proceeding arising out of or relating to this Agreement or your use of our Website shall be brought exclusively in the courts of Jurisdiction</p>

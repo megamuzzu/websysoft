@@ -36,12 +36,12 @@
 			<div class="row">
 				<div class="col-xl-5 col-md-6">
 					<div class="top__bar-left">
-						<a href="<?php echo base_url();?>"><i class="far fa-map-marker-alt"></i>8502 Preston Rd. Inglewood, Maine 98380</a>
+						<a href="<?php echo base_url();?>"><i class="far fa-map-marker-alt"></i>Sector 135, Noida, Uttar Pradesh - 201301</a>
 					</div>
 				</div>
 				<div class="col-xl-7 col-md-6">
 					<div class="top__bar-right">
-						<a href="mailto:websysoftservices.com"><i class="fas fa-envelope"></i>websysoftservices.com</a>
+						<a href="mailto:websysoftsolutions.com"><i class="fas fa-envelope"></i>websysoftsolutions.com</a>
 						<div class="top__bar-right-social">
 							<ul>
 								<li><a href="<?php echo base_url();?>"><i class="fab fa-facebook-f"></i></a></li>
@@ -109,7 +109,7 @@
                             <div class="header__area-menubar-right-sidebar-popup-logo">
                                 <a href="<?php echo base_url();?>"> <img src="<?php echo base_url();?>assets/img/logo-2.png" alt=""> </a>
                             </div>
-                            <p>Websysoft services is a renowned website development company that offers comprehensive solutions catering to businesses ranging from startups to enterprise-level organizations on a global scale. we specialize in developing cutting-edge application to help businesses thrive in the digital marketplace.</p>
+                            <p>Websysoft Solutions is a renowned website development company that offers comprehensive solutions catering to businesses ranging from startups to enterprise-level organizations on a global scale. we specialize in developing cutting-edge application to help businesses thrive in the digital marketplace.</p>
 							<div class="header__area-menubar-right-box-sidebar-popup-contact">
 								<h4 class="mb-30">Get In Touch</h4>
 								<div class="header__area-menubar-right-box-sidebar-popup-contact-item">
@@ -127,7 +127,7 @@
 									</div>
 									<div class="header__area-menubar-right-box-sidebar-popup-contact-item-content">
 										<span>Quick Email</span>
-										<h6><a href="mailto:websysoftservices.com">websysoftservices.com</a></h6>
+										<h6><a href="mailto:websysoftsolutions.com">websysoftsolutions.com</a></h6>
 									</div>
 								</div>
 								<div class="header__area-menubar-right-box-sidebar-popup-contact-item">
@@ -136,7 +136,7 @@
 									</div>
 									<div class="header__area-menubar-right-box-sidebar-popup-contact-item-content">
 										<span>Office Address</span>
-										<h6><a href="<?php echo base_url();?>">PV3M+X68 Welshpool United Kingdom</a></h6>
+										<h6><a href="<?php echo base_url();?>">T2-817, Assotech Business Cresteria, Sector 135, Noida, Uttar Pradesh - 201301</a></h6>
 									</div>
 								</div>
 							</div>

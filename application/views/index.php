@@ -6,7 +6,7 @@
             <div class="row">
                <div class="col-xl-12">
                   <div class="banner__one-content">
-                     <span data-animation="fadeInUp" data-delay=".4s">Welcome to  WebsySoft services</span>
+                     <span data-animation="fadeInUp" data-delay=".4s">Welcome to  Websysoft Solutions</span>
                      <h1 data-animation="fadeInUp" data-delay=".7s">Designing the Future of Web and 
                         Software Development 
                      </h1>
@@ -26,7 +26,7 @@
             <div class="row">
                <div class="col-xl-12">
                   <div class="banner__one-content">
-                     <span data-animation="fadeInUp" data-delay=".4s">Welcome to WebsySoft services</span>
+                     <span data-animation="fadeInUp" data-delay=".4s">Welcome to Websysoft Solutions</span>
                      <h1 data-animation="fadeInUp" data-delay=".7s">unlock the power of digital technology</h1>
                      <div class="banner__one-content-button" data-animation="fadeInUp" data-delay="1s">
                         <div class="banner__one-content-button-item">
@@ -301,7 +301,7 @@
                            <span class="text-eight">Ceo of XYZ</span>
                         </div>
                      </div>
-                     <p>Working with Websysoft Services was a pleasure. They understood our needs, exceeded expectations with a beautifully designed website. Their attention to detail, expertise, and timely delivery set them apart. We highly recommend Websysoft for top-notch web development.</p>
+                     <p>Working with Websysoft Solutions was a pleasure. They understood our needs, exceeded expectations with a beautifully designed website. Their attention to detail, expertise, and timely delivery set them apart. We highly recommend Websysoft for top-notch web development.</p>
                      <div class="testimonial__area-item-reviews">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -323,7 +323,7 @@
                            <span class="text-eight">Coo of ABC Corporation</span>
                         </div>
                      </div>
-                     <p>We asked Websysoft Services for software, they revolutionized our operations with a robust, user-friendly solution that integrated seamlessly. Their professionalism, commitment, and exceptional support made us extremely satisfied. We eagerly anticipate continuing our partnership.</p>
+                     <p>We asked Websysoft Solutions for software, they revolutionized our operations with a robust, user-friendly solution that integrated seamlessly. Their professionalism, commitment, and exceptional support made us extremely satisfied. We eagerly anticipate continuing our partnership.</p>
                      <div class="testimonial__area-item-reviews">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -347,7 +347,7 @@
                            <span class="text-eight">Marketing Manager at DEF Company</span>
                         </div>
                      </div>
-                     <p>We're extremely satisfied with Websysoft Services's web development services. They delivered a visually stunning and highly functional website, optimized for search engines, resulting in increased traffic and conversions. Their professionalism, communication, and technical expertise were outstanding. Highly recommended</p>
+                     <p>We're extremely satisfied with Websysoft Solutions's web development services. They delivered a visually stunning and highly functional website, optimized for search engines, resulting in increased traffic and conversions. Their professionalism, communication, and technical expertise were outstanding. Highly recommended</p>
                      <div class="testimonial__area-item-reviews">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -369,7 +369,7 @@
                            <span class="text-eight"> IT Director at GHI Enterprises</span>
                         </div>
                      </div>
-                     <p>Websysoft Services is our trusted partner for software development. They turn complex ideas into impressive reality, streamlining our processes, improving efficiency, and helping us achieve our goals. Their dedication, prompt communication, and innovative thinking make them a valuable asset. Highly recommend!</p>
+                     <p>Websysoft Solutions is our trusted partner for software development. They turn complex ideas into impressive reality, streamlining our processes, improving efficiency, and helping us achieve our goals. Their dedication, prompt communication, and innovative thinking make them a valuable asset. Highly recommend!</p>
                      <div class="testimonial__area-item-reviews">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -456,7 +456,7 @@
                </div>
                <div class="help__area-item-info">
                   <span class="text-three">Email drop Us</span>
-                  <h5><a href="mailto:websysoftservices.com">websysoftservices.com</a></h5>
+                  <h5><a href="mailto:websysoftsolutions.com">websysoftsolutions.com</a></h5>
                </div>
             </div>
          </div>
@@ -484,7 +484,7 @@
                <div class="blog__three-item-content">
                   <div class="blog__three-item-content-meta">
                      <ul>
-                        <li><a href="<?php echo base_url();?>the-power-of-digital-creation-unleashed-web-development"><i class="far fa-user"></i>Websysoft Services</a></li>
+                        <li><a href="<?php echo base_url();?>the-power-of-digital-creation-unleashed-web-development"><i class="far fa-user"></i>Websysoft Solutions</a></li>
                         <li id="dateshow"><a href="<?php echo base_url();?>the-power-of-digital-creation-unleashed-web-development"></i>12/06/2023</a></li>
                      </ul>
                   </div>
@@ -503,7 +503,7 @@
                <div class="blog__three-item-content">
                   <div class="blog__three-item-content-meta">
                      <ul>
-                        <li><a href="<?php echo base_url();?>software-development-from-concept-to-reality"><i class="far fa-user"></i>Websysoft Services</a></li>
+                        <li><a href="<?php echo base_url();?>software-development-from-concept-to-reality"><i class="far fa-user"></i>Websysoft Solutions</a></li>
                         <li id="dateshow1"><a href="<?php echo base_url();?>software-development-from-concept-to-reality"></i>12/06/2023</a></li>
                      </ul>
                   </div>
@@ -522,7 +522,7 @@
                <div class="blog__three-item-content">
                   <div class="blog__three-item-content-meta">
                      <ul>
-                        <li><a href="<?php echo base_url();?>unleashing-creativity-the-art-of-website-design"><i class="far fa-user"></i>Websysoft Services</a></li>
+                        <li><a href="<?php echo base_url();?>unleashing-creativity-the-art-of-website-design"><i class="far fa-user"></i>Websysoft Solutions</a></li>
                         <li id="dateshow2"><a href="<?php echo base_url();?>unleashing-creativity-the-art-of-website-design"></i>12/06/2023</a></li>
                      </ul>
                   </div>

@@ -18,6 +18,15 @@ class Welcome extends CI_Controller {
 		$data["title"] = "About Us: Websysoft Solutions";
 		$this->load->view('include/template',$data);
 	}
+
+	public function notfound()
+	{
+		$data = array();
+		$data["file"] ="404";
+		$data["title"] = "404: Websysoft Solutions";
+		$this->load->view('include/template',$data);
+	}
+
 	public function contact()
 	{
 		$data = array();

@@ -27,6 +27,14 @@ class Welcome extends CI_Controller {
 		$this->load->view('include/template',$data);
 	}
 
+		public function thankyou()
+	{
+		$data = array();
+		$data["file"] ="thank-you";
+		$data["title"] = "Thank You: Websysoft Solutions";
+		$this->load->view('include/template',$data);
+	}
+
 	public function contact()
 	{
 		$data = array();

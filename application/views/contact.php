@@ -60,20 +60,18 @@
                    </div>
                         <div class="contact__page-info-item pt-5">
                             <h6>Office Address<span>:</span></h6>
-                            <span>3891 Ranchview Dr. Richardson, California 62639</span>
+                            <span>T2-817, Assotech Business Cresteria, Sector 135, Noida, Uttar Pradesh - 201301</span>
                         </div>
                         <div class="contact__page-info-item">
                             <h6>Email Address <span>:</span></h6>
                             <span>
-								<a href="mailto:websysoftsolutions.com">hello.websysoftsolutions.com </a>
-								<a href="mailto:websysoftsolutions.com">info.websysoftsolutions.com </a>
+								<a href="mailto:info@websysoftsolutions.com">info@websysoftsolutions.com</a>
 							</span>
                         </div>
                         <div class="contact__page-info-item">
                             <h6>Phone Number<span>:</span></h6>
                             <span>
 								<a href="tel:(+106)935-0120">(+106) 935-0120</a>
-								<a href="tel:(+107)605-0133">(+107) 605-0133</a>
 							</span>
                         </div>
                     </div>
